@@ -6,7 +6,7 @@ import "./App.css";
 
 const App = () => {
   return (
-    <Router>
+    <Router basename="/coursera-paradise-nursery">
       <Routes>
         <Route
           path="/"
